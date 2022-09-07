@@ -1,4 +1,4 @@
-# Name of Streamlit App
+# Learning-streamlit
 
 Description of the app ...
 
